@@ -1,0 +1,36 @@
+{
+  "project": "SentinelAI",
+  "version": "4.0.0",
+  "type": "Defensive Multi-Agent AI SOC",
+  "academic_demo": true,
+  "commercial_foundation": true,
+  "secrets_included": false,
+  "entrypoint": "app.py",
+  "requirements": [
+    "Problem Statement",
+    "Solution Overview",
+    "System Architecture",
+    "Core Features",
+    "Technologies",
+    "Workflow",
+    "Use Cases",
+    "Target Audience",
+    "Learning Outcomes",
+    "Challenges",
+    "Future Improvements",
+    "Deployment",
+    "Demo"
+  ],
+  "agent_chain": [
+    "SOC Orchestrator / Planner",
+    "Log Analysis",
+    "Threat Detection",
+    "Threat Intelligence",
+    "Investigation",
+    "Risk Assessment",
+    "MITRE ATT&CK",
+    "Incident Response",
+    "Human Approval",
+    "Verification"
+  ]
+}
